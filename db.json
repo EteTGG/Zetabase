@@ -3,7 +3,7 @@
     {
       "name": "Regina Rodriguez",
       "age": 17,
-      "description": "Regina is a confident and academically gifted 17-year-old who identifies as aromantic. She balances her stellar academic achievements with a natural inclination to help others, though she sometimes struggles with putting her own needs first. As student body president and founder of the school's STEM club, she demonstrates exceptional leadership qualities while maintaining a down-to-earth attitude that makes her approachable to her peers. Her alter ego as Mariposa reflects her transformation from a sometimes self-focused individual to a heroic figure who puts the greater good above personal gain.",
+      "description": "Regina is a confident and academically gifted 17-year-old who balances her stellar academic achievements with a natural inclination to help others, though she sometimes struggles with putting her own needs first.",
       "universe_number": "Universe 2",
       "images": ["regina.png", "mariposa.png"],
       "alternate_identities": ["Mariposa"],
@@ -18,7 +18,7 @@
     {
       "name": "Bismo Nkimina",
       "age": 16,
-      "description": "A charismatic and determined 16-year-old who combines physical prowess with emotional intelligence. Despite his young age, Bismo shows remarkable maturity in handling complex situations, often serving as the moral compass for his friend group. His transformation into Tigre D'or represents his fierce protective nature, while his Perfecter form showcases his ability to adapt and grow stronger through adversity. Behind his strong exterior lies a deep sense of responsibility to his family's legacy and a constant drive to prove himself worthy of the powers he's been given.",
+      "description": "A charismatic and determined 16-year-old who combines physical prowess with emotional intelligence.",
       "universe_number": "Universe 2",
       "images": ["bismo.png", "tigredor.png", "perfecter.png"],
       "alternate_identities": ["Tigre D'or", "Perfecter (Pollinated)"],
@@ -32,7 +32,7 @@
     {
       "name": "Isabelle Rich",
       "age": 16,
-      "description": "A brilliant strategist and natural problem-solver at 16, Isabelle possesses an analytical mind that's perfectly balanced by her creative spirit. As the team's primary tactician, she excels at identifying patterns and developing innovative solutions to complex challenges. Her transformations into Catastrophe and ScaraBlue reflect different aspects of her personality - the chaos she can harness for good and the calculated precision she brings to every situation. Despite her intellectual capabilities, she struggles with impostor syndrome and often downplays her crucial role in the team's successes.",
+      "description": "A brilliant strategist and natural problem-solver at 16, Isabelle possesses an analytical mind that's perfectly balanced by her creative spirit.",
       "universe_number": "Universe 2",
       "images": ["isabelle.png", "catastrophe.png", "scarablue.png"],
       "alternate_identities": ["Catastrophe", "ScaraBlue"],
@@ -47,7 +47,7 @@
     {
       "name": "Faye Calvary",
       "age": 17,
-      "description": "An intrepid 17-year-old explorer whose insatiable curiosity drives her to push boundaries and question everything. As ViperHead and BlueBunn, she channels her adventurous spirit into protecting others, using her keen observational skills and natural intuition to uncover hidden truths. Faye's complex relationship with her family history and her desire to forge her own path creates an interesting tension in her character, making her both rebellious and deeply loyal to those she trusts.",
+      "description": "An intrepid 17-year-old explorer whose insatiable curiosity drives her to push boundaries and question everything.",
       "universe_number": "Universe 2",
       "images": ["faye.png", "viperhead.png", "bluebunn.png"],
       "alternate_identities": ["ViperHead", "BlueBunn"],
@@ -61,7 +61,7 @@
     {
       "name": "Jesse Freelance",
       "age": 17,
-      "description": "A complex 17-year-old whose multiple identities reflect their internal struggle with identity and purpose. As Justin, Leonotis, Dandeleon, and Diableon, they explore different aspects of their personality, from the gentle protector to the fierce warrior. Their journey of self-discovery and acceptance resonates with many of their peers, while their ability to adapt to different situations makes them an unpredictable but reliable ally in battle.",
+      "description": "A complex 17-year-old whose multiple identities reflect their internal struggle with identity and purpose.",
       "universe_number": "Universe 2",
       "images": ["jesse.png", "justin.png", "leonotis.png", "dandeleon.png", "diableon.png"],
       "alternate_identities": ["Justin (Un-Fecundated)", "Leonotis (Un-Fecundated)", "Dandeleon", "Diableon (Pollinated)"],
@@ -75,7 +75,7 @@
     {
       "name": "Stacy Leonold",
       "age": 17,
-      "description": "A charismatic 17-year-old whose journey from popular prom queen to powerful hero as Capraquake challenges stereotypes about beauty and strength. Stacy represents her growth from someone concerned primarily with social status to a defender of justice who uses her influence to protect others. Stacy's greatest strength lies in her ability to connect with people from all walks of life, though she sometimes grapples with others' preconceptions about her capabilities.",
+      "description": "A charismatic 17-year-old whose journey from popular prom queen to powerful hero as Capraquake challenges stereotypes about beauty and strength. ",
       "universe_number": "Universe 2",
       "images": ["stacy.png", "capraquake.png", "promqueen.png"],
       "alternate_identities": ["Capraquake", "Prom Queen (Pollinated)"],
@@ -89,7 +89,7 @@
     {
       "name": "Yle",
       "age": 58,
-      "description": "A seasoned mentor figure at 58, Yle brings decades of experience and wisdom to the younger generation. As Anisopteron, they demonstrate that age is no barrier to heroism, using their vast knowledge and tactical expertise to guide and protect their younger counterparts. Their presence provides a valuable perspective on the long-term consequences of heroic actions and the importance of balancing power with responsibility.",
+      "description": "A seasoned mentor figure at 58, Yle brings decades of experience and wisdom to the younger generation.",
       "universe_number": "Universe 2",
       "images": ["yle.png", "anisopteron.png"],
       "alternate_identities": ["Anisopteron"],
@@ -103,7 +103,7 @@
     {
       "name": "ZhenZhen Liu",
       "age": 16,
-      "description": "A reserved but incredibly capable 16-year-old whose quiet demeanor masks a brilliant tactical mind. As Reindare and PowerCreep, she demonstrates an ability to analyze and adapt to any situation with remarkable precision. ",
+      "description": "A reserved but incredibly capable 16-year-old whose quiet demeanor masks a brilliant tactical mind. ",
       "universe_number": "Universe 2",
       "images": ["zhenzhen.png", "reindare.png", "latezhenzhen.png", "powercreep.png"],
       "alternate_identities": ["Reindare", "PowerCreep (Pollinated)"],
@@ -116,7 +116,7 @@
     {
       "name": "Christopher Olowe",
       "age": 16,
-      "description": "A compassionate 16-year-old whose transformation into Astonisher reflects his desire to protect and inspire others. His various forms - from cat to moth - symbolize his adaptability and understanding that strength comes in many forms. Christopher's greatest challenge lies in balancing his desire to help everyone with his own needs for growth and self-care. His friendship with Elise provides him with the support system he needs to navigate these challenges.",
+      "description": "A heartless 16-year-old whose transformation into Astonisher reflects his desire to reign over others.",
       "universe_number": "Universe 2",
       "images": ["christopher.png", "astonisher.png", "astonishercat.png", "astonishermoth.png"],
       "alternate_identities": ["Astonisher (Pollinated)"],
@@ -130,7 +130,7 @@
     {
       "name": "Elise Nobel",
       "age": 17,
-      "description": "A 17-year-old polymath whose transformation into GoldenGaze represents her ability to see beyond surface appearances to the heart of any situation. Her combined passion for art and science gives her a unique perspective on problem-solving, allowing her to create solutions that are both practical and beautiful. Despite her many talents, Elise struggles with perfectionism and the fear of not living up to her own high standards.",
+      "description": "A 17-year-old polymath whose transformation into GoldenGaze represents her ability to see beyond surface appearances to the heart of any situation.",
       "universe_number": "Universe 2",
       "images": ["elise.png", "goldengaze.png"],
       "alternate_identities": ["GoldenGaze (Pollinated)"],
@@ -144,7 +144,7 @@
     {
       "name": "Myeong Tokko",
       "age": 17,
-      "description": "A 17-year-old martial artist whose disciplined exterior masks a deeply philosophical nature. Myeong combines traditional values with modern sensibilities, creating a unique approach to heroism that emphasizes personal growth alongside physical strength. Their greatest challenge lies in reconciling their traditional training with the need to adapt to new and unconventional situations.",
+      "description": "A 17-year-old martial artist whose disciplined exterior masks a deeply philosophical nature.",
       "universe_number": "Universe 2",
       "images": ["myeong.png"],
       "alternate_identities": [],
@@ -158,7 +158,7 @@
     {
       "name": "Claire Mitchell",
       "age": 20,
-      "description": "A 20-year-old reformed antagonist turned mentor whose journey from The Menace to trusted advisor demonstrates the power of redemption. Her past experiences give her unique insight into both the hero and villain perspectives, making her guidance particularly valuable to those struggling with their own path. Claire's greatest strength lies in her ability to understand and guide others through their darkest moments.",
+      "description": "A 20-year-old reformed antagonist turned mentor whose journey from The Menace to trusted advisor demonstrates the power of redemption. ",
       "universe_number": "Universe 2",
       "images": ["claire.png", "menace.png"],
       "alternate_identities": ["The Menace (Fecundated)"],
@@ -174,7 +174,7 @@
     {
       "name": "Time Ranger",
       "age": 20,
-      "description": "A mysterious 20-year-old whose command over temporal elements makes them a uniquely powerful ally. Their future version suggests a complex destiny that they're still coming to terms with. Despite their significant powers, they struggle with the weight of knowing potential futures and the responsibility of choosing which threads of time to protect or alter.",
+      "description": "A mysterious 20-year-old whose command over temporal elements makes them a uniquely powerful ally.",
       "universe_number": "Universe 100",
       "images": ["timeranger.png", "futuretimeranger.png"],
       "alternate_identities": [],
@@ -187,7 +187,7 @@
     {
       "name": "Tiana Heart",
       "age": 18,
-      "description": "An 18-year-old prodigy whose transformation into Blackhole reflects both her tremendous power and the responsibility that comes with it. As a natural leader, she combines strategic thinking with empathy, making her particularly effective at handling complex situations. Her greatest challenge lies in managing the immense power at her disposal while maintaining her humanity and connections to others.",
+      "description": "An 18-year-old prodigy whose transformation into Blackhole reflects both her tremendous power and the responsibility that comes with it.",
       "universe_number": "Universe 5",
       "images": ["tiana.png", "blackhole.png"],
       "alternate_identities": ["Blackhole"],
@@ -201,7 +201,7 @@
     {
       "name": "Alexandra Flores",
       "age": 24,
-      "description": "A 24-year-old vigilante who protects her city at night, representing a grittier, more urban take on heroism. Her partnership with reformed criminal Farah explores themes of trust and redemption in a darker context.",
+      "description": "A 24-year-old vigilante who protects her city at night, representing a grittier, more urban take on heroism.",
       "universe_number": "Universe 89",
       "images": ["alexandra.png", "mariposa89.png", "newmariposa89.png"],
       "alternate_identities": ["Mariposa"],
@@ -240,7 +240,7 @@
     {
       "name": "Cicy Charming",
       "age": 15,
-      "description": "A young member of the Counterspy Society and descendant of a great surveillance organization, determined to protect the city of New Brihanna.",
+      "description": "A young member of the Counterspy Society and descendant of a great surveillance organization, determined to protect her friends.",
       "universe_number": "Universe 4",
       "images": ["cicy.png", "agentcicy.png", "spycicy.png"],
       "alternate_identities": ["Agent 40"],
@@ -255,7 +255,7 @@
     {
       "name": "Ethan Charming",
       "age": 15,
-      "description": "A young member of the Counterspy Society and descendant of a great surveillance organization, determined to protect the city of New Brihanna.",
+      "description": "A young member of the Counterspy Society, determined to protect the city of New Brihanna.",
       "universe_number": "Universe 4",
       "images": ["ethan.png", "agentethan.png", "spyethan.png"],
       "alternate_identities": ["Agent 195"],
@@ -270,7 +270,7 @@
     {
       "name": "Beth Church",
       "age": 15,
-      "description": "A young member of the Counterspy Society and descendant of a great surveillance organization, determined to protect the city of New Brihanna.",
+      "description": "A young member of the Counterspy Society..",
       "universe_number": "Universe 4",
       "images": ["beth.png", "agentbeth.png", "spybeth.png"],
       "alternate_identities": ["Agent 3"],
@@ -341,7 +341,7 @@
     {
       "name": "Honor Dipolitto",
       "age": 19,
-      "description": "Honor was once a mighy sorcerer until a mysterious spell de-aged her to a fetus. After finding out she used to practice magic, she enrolls in Castle Friday.",
+      "description": "Honor was once a mighy sorcerer until a mysterious spell de-aged her to an infant. After finding out she used to practice magic, she enrolls in Castle Friday.",
       "universe_number": "Universe 429",
       "images": ["honor.png", "sighteye.png"],
       "alternate_identities": ["Sighteye"],
@@ -369,7 +369,7 @@
     {
       "name": "Pathik Surwey",
       "age": 50,
-      "description": "20 years ago, Pathik was in an accident. The multiversal portal he was working on malfunctioned and sent him on his way. Since then, he has stopped againg. After his long trips, he was recognized as an anomaly by a powerful group. He would've been a goner, but they saw his potential and let him join.",
+      "description": "20 years ago, Pathik was in an accident. The multiversal portal he was working on malfunctioned and sent him on his way. Since then, he has stopped againg.",
       "universe_number": "Unknown",
       "images": ["pathik.png", "traverser.png"],
       "alternate_identities": ["Traverser"],
@@ -383,7 +383,7 @@
     {
       "name": "Stella Night",
       "age": 23,
-      "description": "She didn't have any friends nor family, and it was all thanks to herself. Stella gained her superpowers in a lab accident, one day, but she wasn't the only one. Now, she makes sure these victims don't abuse their powers.",
+      "description": "She didn't have any friends nor family, and it was all thanks to herself. Stella gained her superpowers in a lab accident, one day, but she wasn't the only one.",
       "universe_number": "Universe 1",
       "images": ["stella.png", "stargazer.png"],
       "alternate_identities": ["Stargazer"],
@@ -413,7 +413,7 @@
       {
         "name": "Infinity Universe",
         "designation_number": 8,
-        "description": "A timeless and enigmatic world, revered by multiversal travelers as a central hub of existence. It serves as a crossroads for dimensional travelers, with the Time Keepers guarding its secrets. Known for its mysteries, this universe contains Earth, Hub World, and Nexus Point as key locations.",
+        "description": "A timeless and enigmatic world, revered by multiversal travelers as a central hub of existence. It serves as a crossroads for dimensional travelers, with the Time Keepers guarding its secrets.",
         "species": ["Humans", "Dimensional Travelers", "Time Keepers"],
         "images": "universe8.png",
         "known_planets": ["Earth", "Hub World", "Nexus Point"],
@@ -431,7 +431,7 @@
       {
         "name": "First Universe",
         "designation_number": 1,
-        "description": "Often referred to as 'The Super Universe', this highly advanced world is heavily controlled by sophisticated technology. Its inhabitants: enhanced humans, AI beings, and synthetic life forms live in a state of perfect harmony. Key locations include Earth Prime, New Mars, and Cybertron.",
+        "description": "Often referred to as 'The Super Universe', this highly advanced world is heavily controlled by sophisticated technology. Its inhabitants: enhanced humans, AI beings, and synthetic life forms live in a state of perfect harmony.",
         "species": ["Enhanced Humans", "AI Beings", "Synthetic Life"],
         "images": "universe1.png",
         "known_planets": ["Earth Prime", "New Mars", "Cybertron"],
@@ -450,7 +450,7 @@
       {
         "name": "Inverted Universe",
         "designation_number": 4,
-        "description": "A reality where the Americas have been divided into 'Americ' and 'Big Brazil,' with a small island, Little America, nestled between them. This alternative Earth is home to humans and their counterparts. Known planets are Inverted Earth and Mirror Mars.",
+        "description": "A reality where the Americas have been divided into 'Americ' and 'Big Brazil,' with a small island, Little America, nestled between them. This alternative Earth is home to humans and their counterparts.",
         "species": ["Humans", "Alternative Humans"],
         "images": "universe4.png",
         "known_planets": ["Inverted Earth", "Mirror Mars"],
@@ -459,7 +459,7 @@
       {
         "name": "Maleficent Universe",
         "designation_number": 5,
-        "description": "In this universe, the inhabitants of Earth are born without the ability to develop consciousness, creating a bizarre and chaotic environment. It's a land populated by unconscious humans and primal beings, with Earth and Chaos Moon as major locations.",
+        "description": "In this universe, the inhabitants of Earth are born without the ability to develop consciousness, creating a violent and chaotic environment.",
         "species": ["Unconscious Humans", "Primal Beings"],
         "images": "universe5.png",
         "known_planets": ["Earth", "Chaos Moon"],
@@ -477,7 +477,7 @@
       {
         "name": "Desaturated Universe",
         "designation_number": 12,
-        "description": "A universe with many similarities to a typical Earth, but the laws of physics are unpredictable, leading to strange occurrences. Earth has a mysterious neighbor, a planet known as the Mystery Planet, and a strange realm called the Quantum World.",
+        "description": "A universe with many similarities to a typical Earth, but the laws of physics are unpredictable, leading to strange occurrences.",
         "species": ["Monochrome Humans", "Shade Beings"],
         "images": "universe12.png",
         "known_planets": ["Grey Earth", "Shadow World"],
@@ -495,7 +495,7 @@
       {
         "name": "Unstable Universe",
         "designation_number": 30,
-        "description": "Also called 'Glitch Earth,' this universe experiences constant changes in the laws of nature, making the world a chaotic and unpredictable place. Adaptable humans and glitch entities navigate a reality where stability is a fleeting concept. The known planets are Glitch Earth and the Unstable Moons.",
+        "description": "Also called 'Glitch Earth,' this universe experiences constant changes in the laws of nature, making the world a chaotic and unpredictable place.",
         "species": ["Adaptable Humans", "Glitch Entities"],
         "images": "universe30.png",
         "known_planets": ["Glitch Earth", "Unstable Moons"],
@@ -531,7 +531,7 @@
       {
         "name": "Cartoon Universe",
         "designation_number": 111,
-        "description": "A zany universe where everything is saturated in vibrant color, and the laws of nature follow absurd, cartoonish logic. It’s home to cartoon humans and animated beings, with Toon Earth and Comedy World as the primary locations.",
+        "description": "A zany universe where everything is saturated in vibrant color, and the laws of nature follow absurd, cartoonish logic.",
         "species": ["Cartoon Humans", "Animated Beings"],
         "images": "universe111.png",
         "known_planets": ["Toon Earth", "Comedy World"],
@@ -540,7 +540,7 @@
       {
         "name": "Stone Earth",
         "designation_number": 269,
-        "description": "A universe where powerful magicians once turned the entire Earth to stone, leaving behind a world of petrified landscapes. Inhabitants, including stone humans and rock elementals, live in this static environment. The known planets are Stone Earth and Crystal Moon.",
+        "description": "A universe where powerful magicians once turned the entire Earth to stone, leaving behind a world of petrified landscapes. Inhabitants, including stone humans and rock elementals, live in this static environment.",
         "species": ["Stone Humans", "Rock Elementals"],
         "images": "universe269.png",
         "known_planets": ["Stone Earth", "Crystal Moon"],
@@ -567,7 +567,7 @@
       {
         "name": "Young Universe",
         "designation_number": 771,
-        "description": "Known as Red n Blue Earth, this universe exudes a vibrant youthful energy. The inhabitants, including young humans and energy beings, thrive in this dynamic environment, with Young Earth and Energy World as its main planets.",
+        "description": "Known as Red n Blue Earth, this universe exudes a vibrant youthful energy. The inhabitants, including young humans and energy beings, thrive in this dynamic environment.",
         "species": ["Young Humans", "Energy Beings"],
         "images": "universe771.png",
         "known_planets": ["Young Earth", "Energy World"],
@@ -576,7 +576,7 @@
       {
         "name": "Spinoff Universe",
         "designation_number": 999,
-        "description": "In this universe, Earth exists but is not the focal point of existence. The species here, including alternative humans and star dwellers, explore minor versions of Earth and Mars. Key locations are Minor Earth and Major Mars.",
+        "description": "In this universe, Earth exists but is not the focal point of existence. The species here, including alternative humans and star dwellers, explore minor versions of Earth and Mars..",
         "species": ["Alternative Humans", "Star Dwellers"],
         "images": "universe999.png",
         "known_planets": ["Minor Earth", "Major Mars"],
@@ -585,8 +585,8 @@
       {
         "name": "Old Universe",
         "designation_number": 1001,
-        "description": " long-forgotten universe, where Earth is now a dead world, with only the remnants of vibrant hues remaining. Ancient humans and eternal beings roam this world, with Ancient Earth and Remnant Worlds as its primary locations.",
-        "species": ["Ancient Humans", "Eternal Beings"],
+        "description": "A long-forgotten universe, where Earth is now a dead world, with only the remnants of vibrant hues remaining.",
+        "species": [],
         "images": "universe1001.png",
         "known_planets": ["Ancient Earth", "Remnant Worlds"],
         "residents": ["Pathik Surwey"]
