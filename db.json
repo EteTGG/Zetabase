@@ -11,7 +11,7 @@
         "mom": "Martina De Leon",
         "dad": "Maximiliano Rodriguez",
         "sibling": "Samuel",
-        "close friends": ["Bismo Nkimina", "Isabelle Rich"]
+        "close friends": ["Bismo Nkimina"]
       },
       "groups": ["Astonishtone Holders", "Handwerp High Students", "Class 5BI", "STEM Club Leadership", "Student Body Government"]
     },
@@ -25,24 +25,9 @@
       "relationships": {
         "mom": "Marie-Laure Fatuma",
         "dad": "Bashala Benjamin Nkimina",
-        "close friends": ["Regina Rodriguez", "Isabelle Rich", "Faye Calvary"]
+        "close friends": ["Regina Rodriguez", "Faye Calvary"]
       },
       "groups": ["Astonishtone Holders", "Handwerp High Students", "Class 5BI"]
-    },
-    {
-      "name": "Isabelle Rich",
-      "age": 16,
-      "description": "A brilliant strategist and natural problem-solver.",
-      "universe_number": "Universe 2",
-      "images": ["isabelle.png", "catastrophe.png", "scarablue.png"],
-      "alternate_identities": ["Catastrophe", "ScaraBlue"],
-      "relationships": {
-        "mom": "Margalene Jewel",
-        "dad": "Quarrel Brave",
-        "sibling": "Spineas Rich",
-        "close friends": ["Bismo Nkimina", "Regina Rodriguez", "Elise Nobel"]
-      },
-      "groups": ["Astonishtone Holders", "Handwerp High Students", "Class 5BI", "Debate Club", "Science Olympiad"]
     },
     {
       "name": "Faye Calvary",
@@ -57,20 +42,6 @@
         "close friends": ["Bismo Nkimina", "Johan Riddle"]
       },
       "groups": ["Astonishtone Holders", "Handwerp High Students", "Class 5BI", "Exploration Club", "Environmental Action Team"]
-    },
-    {
-      "name": "Jesse Freelance",
-      "age": 17,
-      "description": "A complex younging whose multiple identities reflect their internal struggle with identity and purpose.",
-      "universe_number": "Universe 2",
-      "images": ["jesse.png", "justin.png", "leonotis.png", "dandeleon.png", "diableon.png"],
-      "alternate_identities": ["Justin (Un-Fecundated)", "Leonotis (Un-Fecundated)", "Dandeleon", "Diableon (Pollinated)"],
-      "relationships": {
-        "mom": "Lylliane Jamerson",
-        "dad": "Hades Freelance",
-        "close friends": "Claire Mitchell"
-      },
-      "groups": ["Astonishtone Holders", "Drama Club", "Creative Arts Collective", "Identity Exploration Group"]
     },
     {
       "name": "Yle",
@@ -100,50 +71,6 @@
       "groups": ["Astonishtone Holders", "Tactical Analysis Team", "Advanced Mathematics Society"]
     },
     {
-      "name": "Christopher Olowe",
-      "age": 16,
-      "description": "A heartless 16-year-old whose transformation into Astonisher reflects his desire to reign over others.",
-      "universe_number": "Universe 2",
-      "images": ["christopher.png", "astonisher.png", "astonishercat.png", "astonishermoth.png"],
-      "alternate_identities": ["Astonisher (Pollinated)"],
-      "relationships": {
-        "mom": "Nancy Farheight",
-        "dad": "Dominick Olowe",
-        "close friends": "Elise Nobel"
-      },
-      "groups": ["Art and Science Fusion Group"]
-    },
-    {
-      "name": "Myeong Tokko",
-      "age": 17,
-      "description": "A 17-year-old martial artist whose disciplined exterior masks a deeply philosophical nature.",
-      "universe_number": "Universe 2",
-      "images": ["myeong.png"],
-      "alternate_identities": [],
-      "relationships": {
-        "mom": "Wiki Masala",
-        "dad": "Josh Tokko",
-        "close friends": ["ZhenZhen Liu", "Christopher Olowe"]
-      },
-      "groups": ["Martial Arts Academy", "Philosophy Discussion Group"]
-    },
-    {
-      "name": "Claire Mitchell",
-      "age": 20,
-      "description": "A 20-year-old reformed antagonist turned mentor whose journey demonstrates the power of redemption. ",
-      "universe_number": "Universe 2",
-      "images": ["claire.png", "menace.png"],
-      "alternate_identities": ["The Menace (Fecundated)"],
-      "relationships": {
-        "mom": "Unknown",
-        "dad": "George Mitchell",
-        "pseudo mom": "Lylliane Jamerson",
-        "pseudo dad": "Hades Freelance",
-        "close friends": "Jesse Freelance"
-      },
-      "groups": []
-    },
-    {
       "name": "Time Ranger",
       "age": 20,
       "description": "A mysterious 20-year-old whose command over temporal elements makes them a uniquely powerful ally.",
@@ -153,20 +80,6 @@
       "relationships": {
         "mom": "Unknown",
         "dad": "Unknown"
-      },
-      "groups": []
-    },
-    {
-      "name": "Tiana Heart",
-      "age": 18,
-      "description": "A prodigy, regufeed from a dead universe.",
-      "universe_number": "Universe 5",
-      "images": ["tiana.png", "blackhole.png"],
-      "alternate_identities": ["Blackhole"],
-      "relationships": {
-        "mom": "Hapinton Calvary",
-        "dad": "Benson Night",
-        "close friends": []
       },
       "groups": []
     },
@@ -197,49 +110,6 @@
       "groups": ["Universe 89 vigilantes"]
     },
     {
-      "name": "Parable Young",
-      "age": 27,
-      "description": "Parable Young is a powerful kingpin, a crimeboss with an impossible past.",
-      "universe_number": "Universe 89",
-      "images": ["parable.png", "tycoon.png"],
-      "alternate_identities": ["Tycoon"],
-      "relationships": {
-        "mom": "Unknown",
-        "dad": "Unknown"
-      },
-      "groups": []
-    },
-    {
-      "name": "Cicy Charming",
-      "age": 15,
-      "description": "A young member of the Counterspy Society and descendant of a great surveillance organization, determined to protect her friends.",
-      "universe_number": "Universe 4",
-      "images": ["cicy.png", "agentcicy.png", "spycicy.png"],
-      "alternate_identities": ["Agent 40"],
-      "relationships": {
-        "mom": "Valentina Flores",
-        "dad": "Anthony Pereira",
-        "sibling": "Ethan Charming",
-        "boss": "Arian High"
-      },
-      "groups": ["Counterspy Society"]
-    },
-    {
-      "name": "Ethan Charming",
-      "age": 15,
-      "description": "A young member of the Counterspy Society, determined to protect the city of New Brihanna.",
-      "universe_number": "Universe 4",
-      "images": ["ethan.png", "agentethan.png", "spyethan.png"],
-      "alternate_identities": ["Agent 195"],
-      "relationships": {
-        "mom": "Valentina Flores",
-        "dad": "Anthony Pereira",
-        "sibling": "Cicy Charming",
-        "boss": "Arian High"
-      },
-      "groups": ["Counterspy Society"]
-    },
-    {
       "name": "Beth Church",
       "age": 15,
       "description": "A young member of the Counterspy Society..",
@@ -252,21 +122,6 @@
         "boss": "Arian High"
       },
       "groups": ["Counterspy Society"]
-    },
-    {
-      "name": "Lead Magic",
-      "age": 20,
-      "description": "A young student at Castle Friday and practicer of the Magical arts.",
-      "universe_number": "Universe 429",
-      "images": ["lead.png", "witch.png"],
-      "alternate_identities": ["Witch"],
-      "relationships": {
-        "mom": "Unknown",
-        "dad": "Unknown",
-        "brother": "Mason Magic",
-        "mentor": "Jalil Friday"
-      },
-      "groups": ["Castle Friday students"]
     },
     {
       "name": "Rose The Fifth",
@@ -295,34 +150,6 @@
         "mentor": "Jalil Friday"
       },
       "groups": ["Castle Friday students"]
-    },
-    {
-      "name": "Phil Finickkey",
-      "age": 20,
-      "description": "Originates from the underworld and recently enrolled in Castle Friday.",
-      "universe_number": "Universe 429",
-      "images": ["nick.png", "daredemon.png"],
-      "alternate_identities": ["DareDemon"],
-      "relationships": {
-        "mom": "Unknown",
-        "dad": "Unknown",
-        "mentor": "Jalil Friday"
-      },
-      "groups": ["Castle Friday students"]
-    },
-    {
-      "name": "Pathik Surwey",
-      "age": 50,
-      "description": "20 years ago, Pathik was in an accident that sent him across the Multiverse.",
-      "universe_number": "Unknown",
-      "images": ["pathik.png", "traverser.png"],
-      "alternate_identities": ["Traverser"],
-      "relationships": {
-        "mom": "Unknown",
-        "dad": "Unknown",
-        "mentor": "Jalil Friday"
-      },
-      "groups": ["Multiverse Travel Patrol"]
     },
     {
       "name": "Stella Night",
@@ -355,24 +182,6 @@
   
     "universes": [
       {
-        "name": "Infinity Universe",
-        "designation_number": 8,
-        "description": "A timeless and enigmatic world, revered by multiversal travelers as a central hub of existence.",
-        "species": ["Humans", "Dimensional Travelers", "Time Keepers"],
-        "images": "universe8.png",
-        "known_planets": ["Earth", "Hub World", "Nexus Point"],
-        "residents": ["Pathik Surwey"]
-      },
-      {
-        "name": "Unreachable Universe",
-        "designation_number": 0,
-        "description": "A distant universe, almost unreachable, where humans coexist with enigmatic, unknown entities.",
-        "species": ["Humans", "Unknown Entities"],
-        "images": "universe0.png",
-        "known_planets": ["Earth", "The Void"],
-        "residents": ["Pathik Surwey"]
-      },
-      {
         "name": "First Universe",
         "designation_number": 1,
         "description": "Often referred to as 'The Super Universe', this highly advanced world is heavily controlled by sophisticated technology.",
@@ -388,8 +197,8 @@
         "species": ["Humans", "Superhumans", "Metahumans"],
         "images": "universe2.png",
         "known_planets": ["Earth", "Rockantada"],
-        "residents": ["Regina Rodriguez", "Bismo Nkimina","Isabelle Rich", "Faye Calvary", "Jesse Freelance", "Stacy Leonold", "Yle", 
-      "ZhenZhen Liu", "Avianah Jr. Stroll", "Christopher Olowe", "Elise Nobel", "Claire Mitchell" ]
+        "residents": ["Regina Rodriguez", "Bismo Nkimina", "Faye Calvary", "Jesse Freelance", "Yle", 
+      "ZhenZhen Liu"]
       },
       {
         "name": "Inverted Universe",
@@ -398,25 +207,7 @@
         "species": ["Humans", "Alternative Humans"],
         "images": "universe4.png",
         "known_planets": ["Inverted Earth", "Mirror Mars"],
-        "residents": ["Cicy Charming", "Ethan Charming", "Betch Church", "Hailey Spade"]
-      },
-      {
-        "name": "Maleficent Universe",
-        "designation_number": 5,
-        "description": "In this universe, the inhabitants of Earth are born without the ability to develop consciousness, creating a violent and chaotic environment.",
-        "species": ["Unconscious Humans", "Primal Beings"],
-        "images": "universe5.png",
-        "known_planets": ["Earth", "Chaos Moon"],
-        "residents": ["Tiana Heart"]
-      },
-      {
-        "name": "Desaturated Universe",
-        "designation_number": 12,
-        "description": "A universe with many similarities to a typical Earth, but the laws of physics are unpredictable, leading to strange occurrences.",
-        "species": ["Monochrome Humans", "Shade Beings"],
-        "images": "universe12.png",
-        "known_planets": ["Grey Earth", "Shadow World"],
-        "residents": ["Pathik Surwey"]
+        "residents": ["Betch Church"]
       },
       {
         "name": "Unstable Universe",
@@ -425,16 +216,16 @@
         "species": ["Adaptable Humans", "Glitch Entities"],
         "images": "universe30.png",
         "known_planets": ["Glitch Earth", "Unstable Moons"],
-        "residents": ["Pathik Surwey"]
+        "residents": []
       },
       {
         "name": "Orange Skies Universe",
         "designation_number": 89,
-        "description": "A surreal universe where the skies are perpetually orange, casting an otherworldly glow on the inhabitants of Earth and the Amber Moon, a mysterious celestial body.",
+        "description": "A surreal universe where the skies are perpetually orange.",
         "species": ["Humans", "Sky Dwellers"],
         "images": "universe89.png",
         "known_planets": ["Orange Earth", "Amber Moon"],
-        "residents": ["Alexandra Flores", "Quinn Fortune", "Farah White", "Parable Young"]
+        "residents": ["Alexandra Flores","Farah White"]
       },
       {
         "name": "Red Realm",
@@ -443,7 +234,7 @@
         "species": ["Red-adapted Humans", "Crimson Beings"],
         "images": "universe100.png",
         "known_planets": ["Red Earth", "Scarlet Mars"],
-        "residents": ["Time Ranger"]
+        "residents": []
       },
       {
         "name": "Cartoon Universe",
@@ -452,16 +243,7 @@
         "species": ["Cartoon Humans", "Animated Beings"],
         "images": "universe111.png",
         "known_planets": ["Toon Earth", "Comedy World"],
-        "residents": ["Pathik Surwey"]
-      },
-      {
-        "name": "Stone Earth",
-        "designation_number": 269,
-        "description": "A universe where powerful magicians once turned the entire Earth to stone, leaving behind a world of petrified landscapes.",
-        "species": ["Stone Humans", "Rock Elementals"],
-        "images": "universe269.png",
-        "known_planets": ["Stone Earth", "Crystal Moon"],
-        "residents": ["Pathik Surwey"]
+        "residents": []
       },
       {
         "name": "The Manaverse",
@@ -470,34 +252,7 @@
         "species": ["Weather-adapted Humans", "Storm Beings", "Magicians"],
         "images": "universe429.png",
         "known_planets": ["Weather Earth", "Storm Planet"],
-        "residents": ["Alecia Whitney Knight", "Nick Crowley", "Lead Magic", "Rose The Fifth", "Mason Magic", "Honor Dipolitto", "Phil Finickkey", "Bjork Fraquentie"]
-      },
-      {
-        "name": "Future Universe",
-        "designation_number": 578,
-        "description": "A futuristic Earth, inhabited by evolved species and humans who have adapted to advanced technology and changed environments.",
-        "species": ["Future Humans", "Evolved Species"],
-        "images": "universe578.png",
-        "known_planets": ["Future Earth", "Colony Mars", "New Venus"],
-        "residents": ["Pathik Surwey"]
-      },
-      {
-        "name": "Young Universe",
-        "designation_number": 771,
-        "description": "Known as Red n Blue Earth, this universe exudes a vibrant youthful energy.",
-        "species": ["Young Humans", "Energy Beings"],
-        "images": "universe771.png",
-        "known_planets": ["Young Earth", "Energy World"],
-        "residents": ["Pathik Surwey"]
-      },
-      {
-        "name": "Old Universe",
-        "designation_number": 1001,
-        "description": "A long-forgotten universe, where Earth is now a dead world, with only the remnants of vibrant hues remaining.",
-        "species": [],
-        "images": "universe1001.png",
-        "known_planets": ["Ancient Earth", "Remnant Worlds"],
-        "residents": ["Pathik Surwey"]
+        "residents": [ "Rose The Fifth", "Mason Magic"]
       }
     ]
   }
