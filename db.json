@@ -3,7 +3,7 @@
     {
       "name": "Regina Rodriguez",
       "age": 17,
-      "description": "Regina is a confident and academically gifted 17-year-old who balances her stellar academic achievements with a natural inclination to help others, though she sometimes struggles with putting her own needs first.",
+      "description": "A confident and academically gifted 17-year-old who balances her stellar.",
       "universe_number": "Universe 2",
       "images": ["regina.png", "mariposa.png"],
       "alternate_identities": ["Mariposa"],
@@ -13,7 +13,7 @@
         "sibling": "Samuel",
         "close friends": ["Bismo Nkimina", "Isabelle Rich"]
       },
-      "groups": ["New Era Astonishstone Holders", "Handwerp High Students", "Class 5BI", "STEM Club Leadership", "Student Body Government"]
+      "groups": ["Astonishtone Holders", "Handwerp High Students", "Class 5BI", "STEM Club Leadership", "Student Body Government"]
     },
     {
       "name": "Bismo Nkimina",
@@ -27,12 +27,12 @@
         "dad": "Bashala Benjamin Nkimina",
         "close friends": ["Regina Rodriguez", "Isabelle Rich", "Faye Calvary"]
       },
-      "groups": ["New Era Astonishstone Holders", "Handwerp High Students", "Class 5BI", "Athletic Team", "Martial Arts Club"]
+      "groups": ["Astonishtone Holders", "Handwerp High Students", "Class 5BI"]
     },
     {
       "name": "Isabelle Rich",
       "age": 16,
-      "description": "A brilliant strategist and natural problem-solver at 16, Isabelle possesses an analytical mind that's perfectly balanced by her creative spirit.",
+      "description": "A brilliant strategist and natural problem-solver.",
       "universe_number": "Universe 2",
       "images": ["isabelle.png", "catastrophe.png", "scarablue.png"],
       "alternate_identities": ["Catastrophe", "ScaraBlue"],
@@ -42,12 +42,12 @@
         "sibling": "Spineas Rich",
         "close friends": ["Bismo Nkimina", "Regina Rodriguez", "Elise Nobel"]
       },
-      "groups": ["New Era Astonishstone Holders", "Handwerp High Students", "Class 5BI", "Debate Club", "Science Olympiad"]
+      "groups": ["Astonishtone Holders", "Handwerp High Students", "Class 5BI", "Debate Club", "Science Olympiad"]
     },
     {
       "name": "Faye Calvary",
       "age": 17,
-      "description": "An intrepid 17-year-old explorer whose insatiable curiosity drives her to push boundaries and question everything.",
+      "description": "An intrepid explorer whose insatiable curiosity drives her to push boundaries and question everything.",
       "universe_number": "Universe 2",
       "images": ["faye.png", "viperhead.png", "bluebunn.png"],
       "alternate_identities": ["ViperHead", "BlueBunn"],
@@ -56,12 +56,12 @@
         "dad": "Benson Night",
         "close friends": ["Bismo Nkimina", "Johan Riddle"]
       },
-      "groups": ["New Era Astonishstone Holders", "Handwerp High Students", "Class 5BI", "Exploration Club", "Environmental Action Team"]
+      "groups": ["Astonishtone Holders", "Handwerp High Students", "Class 5BI", "Exploration Club", "Environmental Action Team"]
     },
     {
       "name": "Jesse Freelance",
       "age": 17,
-      "description": "A complex 17-year-old whose multiple identities reflect their internal struggle with identity and purpose.",
+      "description": "A complex younging whose multiple identities reflect their internal struggle with identity and purpose.",
       "universe_number": "Universe 2",
       "images": ["jesse.png", "justin.png", "leonotis.png", "dandeleon.png", "diableon.png"],
       "alternate_identities": ["Justin (Un-Fecundated)", "Leonotis (Un-Fecundated)", "Dandeleon", "Diableon (Pollinated)"],
@@ -70,26 +70,12 @@
         "dad": "Hades Freelance",
         "close friends": "Claire Mitchell"
       },
-      "groups": ["New Era Astonishstone Holders", "Drama Club", "Creative Arts Collective", "Identity Exploration Group"]
-    },
-    {
-      "name": "Stacy Leonold",
-      "age": 17,
-      "description": "A charismatic 17-year-old whose journey from popular prom queen to powerful hero as Capraquake challenges stereotypes about beauty and strength. ",
-      "universe_number": "Universe 2",
-      "images": ["stacy.png", "capraquake.png", "promqueen.png"],
-      "alternate_identities": ["Capraquake", "Prom Queen (Pollinated)"],
-      "relationships": {
-        "mom": "Patricia Klein",
-        "dad": "John Kaynine",
-        "sibling": ["Irving Min", "Orion Reis", "Lisa Lemand", "Patricia Jr. Leonold", "Mary Vintage", "Mitigan Right", "Thaddeus Ted", "Marissa Dime", "Barry Calibri"]
-      },
-      "groups": ["Handwerp High Students", "Social Influence Network", "Community Event Planners", "School Spirit Committee"]
+      "groups": ["Astonishtone Holders", "Drama Club", "Creative Arts Collective", "Identity Exploration Group"]
     },
     {
       "name": "Yle",
       "age": 58,
-      "description": "A seasoned mentor figure at 58, Yle brings decades of experience and wisdom to the younger generation.",
+      "description": "This mentor brings decades of experience and wisdom to the younger generation.",
       "universe_number": "Universe 2",
       "images": ["yle.png", "anisopteron.png"],
       "alternate_identities": ["Anisopteron"],
@@ -98,12 +84,12 @@
         "dad": "Unknown",
         "student": ["Regina Rodriguez", "Bismo Nkimina", "Faye Calvary"]
       },
-      "groups": ["Mentorship Program", "Veteran Heroes Council", "Temporal Guardians", "Strategic Advisory Board"]
+      "groups": ["Mentorship Program", "Veteran Heroes Council"]
     },
     {
       "name": "ZhenZhen Liu",
       "age": 16,
-      "description": "A reserved but incredibly capable 16-year-old whose quiet demeanor masks a brilliant tactical mind. ",
+      "description": "A reserved but incredibly capable one whose quiet demeanor masks a brilliant tactical mind. ",
       "universe_number": "Universe 2",
       "images": ["zhenzhen.png", "reindare.png", "latezhenzhen.png", "powercreep.png"],
       "alternate_identities": ["Reindare", "PowerCreep (Pollinated)"],
@@ -111,7 +97,7 @@
         "mom": "Hong Liu",
         "dad": "Duyi Wong"
       },
-      "groups": ["New Era Astonishstone Holders", "Tactical Analysis Team", "Chess Club", "Advanced Mathematics Society"]
+      "groups": ["Astonishtone Holders", "Tactical Analysis Team", "Advanced Mathematics Society"]
     },
     {
       "name": "Christopher Olowe",
@@ -125,21 +111,7 @@
         "dad": "Dominick Olowe",
         "close friends": "Elise Nobel"
       },
-      "groups": ["Compassion Collective", "Animal Welfare Society", "Art and Science Fusion Group"]
-    },
-    {
-      "name": "Elise Nobel",
-      "age": 17,
-      "description": "A 17-year-old polymath whose transformation into GoldenGaze represents her ability to see beyond surface appearances to the heart of any situation.",
-      "universe_number": "Universe 2",
-      "images": ["elise.png", "goldengaze.png"],
-      "alternate_identities": ["GoldenGaze (Pollinated)"],
-      "relationships": {
-        "mom": "Palab Order",
-        "dad": "Mario Nobel",
-        "close friends": ["Isabelle Rich", "Christopher Olowe"]
-      },
-      "groups": ["New Era Astonishstone Holders", "Multidisciplinary Arts Collective", "Scientific Innovation Network"]
+      "groups": ["Art and Science Fusion Group"]
     },
     {
       "name": "Myeong Tokko",
@@ -153,12 +125,12 @@
         "dad": "Josh Tokko",
         "close friends": ["ZhenZhen Liu", "Christopher Olowe"]
       },
-      "groups": ["Martial Arts Academy", "Philosophy Discussion Group", "Cultural Heritage Preservation Society"]
+      "groups": ["Martial Arts Academy", "Philosophy Discussion Group"]
     },
     {
       "name": "Claire Mitchell",
       "age": 20,
-      "description": "A 20-year-old reformed antagonist turned mentor whose journey from The Menace to trusted advisor demonstrates the power of redemption. ",
+      "description": "A 20-year-old reformed antagonist turned mentor whose journey demonstrates the power of redemption. ",
       "universe_number": "Universe 2",
       "images": ["claire.png", "menace.png"],
       "alternate_identities": ["The Menace (Fecundated)"],
@@ -187,7 +159,7 @@
     {
       "name": "Tiana Heart",
       "age": 18,
-      "description": "An 18-year-old prodigy whose transformation into Blackhole reflects both her tremendous power and the responsibility that comes with it.",
+      "description": "A prodigy, regufeed from a dead universe.",
       "universe_number": "Universe 5",
       "images": ["tiana.png", "blackhole.png"],
       "alternate_identities": ["Blackhole"],
@@ -227,7 +199,7 @@
     {
       "name": "Parable Young",
       "age": 27,
-      "description": "Parable Young is a powerful kingpin. A crimeboss with an impossible past. The city fears her, as 'Tycoon'.",
+      "description": "Parable Young is a powerful kingpin, a crimeboss with an impossible past.",
       "universe_number": "Universe 89",
       "images": ["parable.png", "tycoon.png"],
       "alternate_identities": ["Tycoon"],
@@ -282,20 +254,6 @@
       "groups": ["Counterspy Society"]
     },
     {
-      "name": "Alecia Whitney Knight",
-      "age": 50,
-      "description": "An ancient sorcerer and master of the mystical arts",
-      "universe_number": "Universe 429",
-      "images": ["alecia.png", "drpower.png"],
-      "alternate_identities": ["Doctor Power"],
-      "relationships": {
-        "mom": "Unknown",
-        "dad": "Unknown",
-        "mentor": "Jalil Friday"
-      },
-      "groups": ["Castle Friday students"]
-    },
-    {
       "name": "Lead Magic",
       "age": 20,
       "description": "A young student at Castle Friday and practicer of the Magical arts.",
@@ -339,20 +297,6 @@
       "groups": ["Castle Friday students"]
     },
     {
-      "name": "Honor Dipolitto",
-      "age": 19,
-      "description": "Honor was once a mighy sorcerer until a mysterious spell de-aged her to an infant. After finding out she used to practice magic, she enrolls in Castle Friday.",
-      "universe_number": "Universe 429",
-      "images": ["honor.png", "sighteye.png"],
-      "alternate_identities": ["Sighteye"],
-      "relationships": {
-        "mom": "Unknown",
-        "dad": "Unknown",
-        "mentor": "Jalil Friday"
-      },
-      "groups": ["Castle Friday students"]
-    },
-    {
       "name": "Phil Finickkey",
       "age": 20,
       "description": "Originates from the underworld and recently enrolled in Castle Friday.",
@@ -369,7 +313,7 @@
     {
       "name": "Pathik Surwey",
       "age": 50,
-      "description": "20 years ago, Pathik was in an accident. The multiversal portal he was working on malfunctioned and sent him on his way. Since then, he has stopped againg.",
+      "description": "20 years ago, Pathik was in an accident that sent him across the Multiverse.",
       "universe_number": "Unknown",
       "images": ["pathik.png", "traverser.png"],
       "alternate_identities": ["Traverser"],
@@ -383,7 +327,7 @@
     {
       "name": "Stella Night",
       "age": 23,
-      "description": "She didn't have any friends nor family, and it was all thanks to herself. Stella gained her superpowers in a lab accident, one day, but she wasn't the only one.",
+      "description": "Stella gained her superpowers in a lab accident, one day, but she wasn't the only one.",
       "universe_number": "Universe 1",
       "images": ["stella.png", "stargazer.png"],
       "alternate_identities": ["Stargazer"],
@@ -413,7 +357,7 @@
       {
         "name": "Infinity Universe",
         "designation_number": 8,
-        "description": "A timeless and enigmatic world, revered by multiversal travelers as a central hub of existence. It serves as a crossroads for dimensional travelers, with the Time Keepers guarding its secrets.",
+        "description": "A timeless and enigmatic world, revered by multiversal travelers as a central hub of existence.",
         "species": ["Humans", "Dimensional Travelers", "Time Keepers"],
         "images": "universe8.png",
         "known_planets": ["Earth", "Hub World", "Nexus Point"],
@@ -422,7 +366,7 @@
       {
         "name": "Unreachable Universe",
         "designation_number": 0,
-        "description": "A distant universe, almost unreachable, where humans coexist with enigmatic, unknown entities. Its most notable locations include Earth and the Void, a seemingly endless space that remains mostly unexplored.",
+        "description": "A distant universe, almost unreachable, where humans coexist with enigmatic, unknown entities.",
         "species": ["Humans", "Unknown Entities"],
         "images": "universe0.png",
         "known_planets": ["Earth", "The Void"],
@@ -431,7 +375,7 @@
       {
         "name": "First Universe",
         "designation_number": 1,
-        "description": "Often referred to as 'The Super Universe', this highly advanced world is heavily controlled by sophisticated technology. Its inhabitants: enhanced humans, AI beings, and synthetic life forms live in a state of perfect harmony.",
+        "description": "Often referred to as 'The Super Universe', this highly advanced world is heavily controlled by sophisticated technology.",
         "species": ["Enhanced Humans", "AI Beings", "Synthetic Life"],
         "images": "universe1.png",
         "known_planets": ["Earth Prime", "New Mars", "Cybertron"],
@@ -444,13 +388,13 @@
         "species": ["Humans", "Superhumans", "Metahumans"],
         "images": "universe2.png",
         "known_planets": ["Earth", "Rockantada"],
-        "residents": ["Regina Rodriguez", "Bismo Nkimina","Isabelle Rich", "Faye Calvary", "Isra Sumeyye", "Roxanne 'Gifty' Arhin", "Jesse Freelance", "Stacy Leonold", "Yle", 
-      "ZhenZhen Liu", "Avianah Jr. Stroll", "Christopher Olowe", "Elise Nobel", "Myeong Tokko", "Sprouse Loken", "Claire Mitchell" ]
+        "residents": ["Regina Rodriguez", "Bismo Nkimina","Isabelle Rich", "Faye Calvary", "Jesse Freelance", "Stacy Leonold", "Yle", 
+      "ZhenZhen Liu", "Avianah Jr. Stroll", "Christopher Olowe", "Elise Nobel", "Claire Mitchell" ]
       },
       {
         "name": "Inverted Universe",
         "designation_number": 4,
-        "description": "A reality where the Americas have been divided into 'Americ' and 'Big Brazil,' with a small island, Little America, nestled between them. This alternative Earth is home to humans and their counterparts.",
+        "description": "A reality where the Americas have been divided into 'Americ' and 'Big Brazil,' with a small island, Little America, nestled between them.",
         "species": ["Humans", "Alternative Humans"],
         "images": "universe4.png",
         "known_planets": ["Inverted Earth", "Mirror Mars"],
@@ -466,30 +410,12 @@
         "residents": ["Tiana Heart"]
       },
       {
-        "name": "Crafted Universe",
-        "designation_number": 10,
-        "description": "Similar to a 'usual' Earth, except.. The physics can get confusing. Not to mention, Earth's got a new neighbor here.",
-        "species": ["Humans", "Reality Benders"],
-        "images": "universe10.png",
-        "known_planets": ["Earth", "Mystery Planet", "Quantum World"],
-        "residents": ["Pathik Surwey"]
-      },
-      {
         "name": "Desaturated Universe",
         "designation_number": 12,
         "description": "A universe with many similarities to a typical Earth, but the laws of physics are unpredictable, leading to strange occurrences.",
         "species": ["Monochrome Humans", "Shade Beings"],
         "images": "universe12.png",
         "known_planets": ["Grey Earth", "Shadow World"],
-        "residents": ["Pathik Surwey"]
-      },
-      {
-        "name": "Medieval Earth Universe",
-        "designation_number": 18,
-        "description": "A universe where medieval civilizations never advanced into modernity, with a world full of knights, dragons, and mythical creatures. The known planets include Medieval Earth and the Dragon's Realm.",
-        "species": ["Medieval Humans", "Dragons", "Mythical Creatures"],
-        "images": "universe18.png",
-        "known_planets": ["Medieval Earth", "Dragon's Realm"],
         "residents": ["Pathik Surwey"]
       },
       {
@@ -500,15 +426,6 @@
         "images": "universe30.png",
         "known_planets": ["Glitch Earth", "Unstable Moons"],
         "residents": ["Pathik Surwey"]
-      },
-      {
-        "name": "Peace Universe",
-        "designation_number": 58,
-        "description": "Known as 'Peace Earth' or 'Lone Earth,' this harmonious world is a rare utopia where all species coexist in tranquility. However, this peaceful existence comes at the cost of being a lone planet in the vast multiverse. The single planet in this universe is Lone Earth.",
-        "species": ["Unified Humans", "Peaceful Beings"],
-        "images": "universe58.png",
-        "known_planets": ["Lone Earth"],
-        "residents": []
       },
       {
         "name": "Orange Skies Universe",
@@ -522,7 +439,7 @@
       {
         "name": "Red Realm",
         "designation_number": 100,
-        "description": "This is a universe where every element is bathed in a constant red hue. The species here, including red-adapted humans and crimson beings, thrive in this unique environment. Known planets include Red Earth and Scarlet Mars.",
+        "description": "This is a universe where every element is bathed in a constant red hue.",
         "species": ["Red-adapted Humans", "Crimson Beings"],
         "images": "universe100.png",
         "known_planets": ["Red Earth", "Scarlet Mars"],
@@ -540,7 +457,7 @@
       {
         "name": "Stone Earth",
         "designation_number": 269,
-        "description": "A universe where powerful magicians once turned the entire Earth to stone, leaving behind a world of petrified landscapes. Inhabitants, including stone humans and rock elementals, live in this static environment.",
+        "description": "A universe where powerful magicians once turned the entire Earth to stone, leaving behind a world of petrified landscapes.",
         "species": ["Stone Humans", "Rock Elementals"],
         "images": "universe269.png",
         "known_planets": ["Stone Earth", "Crystal Moon"],
@@ -549,7 +466,7 @@
       {
         "name": "The Manaverse",
         "designation_number": 429,
-        "description": "A universe where the weather in space directly affects the planet's environment. Humans adapted to survive the constant storm cycles, along with storm beings, populate Earth and the Storm Planet.",
+        "description": "A universe where the weather in space directly affects the planet's environment.",
         "species": ["Weather-adapted Humans", "Storm Beings", "Magicians"],
         "images": "universe429.png",
         "known_planets": ["Weather Earth", "Storm Planet"],
@@ -558,7 +475,7 @@
       {
         "name": "Future Universe",
         "designation_number": 578,
-        "description": "A futuristic Earth, inhabited by evolved species and humans who have adapted to advanced technology and changed environments. The planets in this future world include Future Earth, Colony Mars, and New Venus.",
+        "description": "A futuristic Earth, inhabited by evolved species and humans who have adapted to advanced technology and changed environments.",
         "species": ["Future Humans", "Evolved Species"],
         "images": "universe578.png",
         "known_planets": ["Future Earth", "Colony Mars", "New Venus"],
@@ -567,20 +484,11 @@
       {
         "name": "Young Universe",
         "designation_number": 771,
-        "description": "Known as Red n Blue Earth, this universe exudes a vibrant youthful energy. The inhabitants, including young humans and energy beings, thrive in this dynamic environment.",
+        "description": "Known as Red n Blue Earth, this universe exudes a vibrant youthful energy.",
         "species": ["Young Humans", "Energy Beings"],
         "images": "universe771.png",
         "known_planets": ["Young Earth", "Energy World"],
         "residents": ["Pathik Surwey"]
-      },
-      {
-        "name": "Spinoff Universe",
-        "designation_number": 999,
-        "description": "In this universe, Earth exists but is not the focal point of existence. The species here, including alternative humans and star dwellers, explore minor versions of Earth and Mars..",
-        "species": ["Alternative Humans", "Star Dwellers"],
-        "images": "universe999.png",
-        "known_planets": ["Minor Earth", "Major Mars"],
-        "residents": []
       },
       {
         "name": "Old Universe",
