@@ -4,7 +4,7 @@
       "name": "Regina Rodriguez",
       "age": 17,
       "description": "A confident and academically gifted 17-year-old who balances her stellar.",
-      "universe_number": "Universe 2",
+      "universe_number": "Universe 2 (Uncataloged)",
       "images": ["regina.png", "mariposa.png"],
       "alternate_identities": ["Mariposa"],
       "relationships": {
@@ -19,7 +19,7 @@
       "name": "Bismo Nkimina",
       "age": 16,
       "description": "A charismatic and determined 16-year-old who combines physical prowess with emotional intelligence. Despite his young age, Bismo shows remarkable maturity in handling complex situations, often serving as the moral compass for his friend group. His transformation into Tigre D'or represents his fierce protective nature, while his Perfecter form showcases his ability to adapt and grow stronger through adversity. Behind his strong exterior lies a deep sense of responsibility to his family's legacy and a constant drive to prove himself worthy of the powers he's been given.",
-      "universe_number": "Universe 2",
+      "universe_number": "Universe 2 (Uncataloged)",
       "images": ["bismo.png", "tigredor.png", "perfecter.png"],
       "alternate_identities": ["Tigre D'or", "Perfecter (Pollinated)"],
       "relationships": {
@@ -33,7 +33,7 @@
       "name": "Isabelle Rich",
       "age": 16,
       "description": "A brilliant strategist and natural problem-solver at 16, Isabelle possesses an analytical mind that's perfectly balanced by her creative spirit. As the team's primary tactician, she excels at identifying patterns and developing innovative solutions to complex challenges. Her transformations into Catastrophe and ScaraBlue reflect different aspects of her personality - the chaos she can harness for good and the calculated precision she brings to every situation. Despite her intellectual capabilities, she struggles with impostor syndrome and often downplays her crucial role in the team's successes.",
-      "universe_number": "Universe 2",
+      "universe_number": "Universe 2 (Uncataloged)",
       "images": ["isabelle.png", "catastrophe.png", "scarablue.png"],
       "alternate_identities": ["Catastrophe", "ScaraBlue"],
       "relationships": {
@@ -55,7 +55,7 @@
       "species": ["Humans", "Dimensional Travelers", "Time Keepers"],
       "images": "universe8.png",
       "known_planets": ["Earth", "Hub World", "Nexus Point"],
-      "residents": ["Pathik Surwey"]
+      "residents": []
     },
     {
       "name": "Unreachable Universe",
@@ -64,7 +64,7 @@
       "species": ["Humans", "Unknown Entities"],
       "images": "universe0.png",
       "known_planets": ["Earth", "The Void"],
-      "residents": ["Pathik Surwey"]
+      "residents": []
     },
       {
         "name": "First Universe",
@@ -73,7 +73,7 @@
         "species": ["Enhanced Humans", "AI Beings", "Synthetic Life"],
         "images": "universe1.png",
         "known_planets": ["Earth Prime", "New Mars", "Cybertron"],
-        "residents": ["Stella Night", "Exxtraman"]
+        "residents": []
       }
     ]
   }
